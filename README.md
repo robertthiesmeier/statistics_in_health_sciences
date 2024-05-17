@@ -1,4 +1,4 @@
-# statistics_in_health_sciences
+# Simulations in public health
 Teaching Statistics in Health Sciences: The Potential of Simulations in Public Health
 
 https://www.tandfonline.com/doi/full/10.1080/09332480.2024.2348972
