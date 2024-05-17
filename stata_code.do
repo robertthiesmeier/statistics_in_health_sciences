@@ -8,7 +8,7 @@ program define sim_exp1, rclass
 	local n = 1000
 	local py_1 = .3
 	local py_0 = .1
-	local x_p = .3
+	local x_p = .2
 	
 	qui set obs `n'
 	qui gen x = rbinomial(1, `x_p')
